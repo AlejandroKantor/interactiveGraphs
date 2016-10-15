@@ -19,16 +19,24 @@ At the moment all files are used to for building interactive graphs of cost and 
 
 ## Usage
 
-Open ./interactiveGraphs.RProj, then open ./scripts/makeModelBenchmarking.R within the R Project. Run or source 
+Open ./interactiveGraphs.RProj, then open ./scripts/makeCareerGraphs.R within the R Project. Run or source file. 
 
 ## Example of graphs
 
+The graphs are in Spanish because they are meant for a Peruvian audience. 
+
 ### Min cost
+
+[External link](https://plot.ly/~AlejandroKantor/386.embed?link=False)
+
 <iframe src="https://plot.ly/~AlejandroKantor/386.embed?link=False"  style="width: 100%" frameBorder="0" height="450" scrolling="no" seamless="seamless" 
 class="myIframe">
 </iframe>
 
 ### Max cost
+
+[External link](https://plot.ly/~AlejandroKantor/388.embed?link=False)
+
 <iframe src="https://plot.ly/~AlejandroKantor/388.embed?link=False"  style="width: 100%" frameBorder="0" height="450" scrolling="no" seamless="seamless" 
 class="myIframe">
 </iframe>
